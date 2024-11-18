@@ -1,0 +1,40 @@
+.card {
+  background-color: #F8DDD7;
+  padding: 20px;
+  height: 100%;
+}
+
+.isFarm {
+  background-color: #E1EDCE;
+}
+
+.heading {
+  display: flex;
+  gap: 20px;
+}
+
+.label {
+  width: 14px;
+  font-weight: 400;
+
+  background-color: #F75531;
+  color: white;
+  padding: 2px 10px;
+}
+
+.isFarm .label {
+  background-color: #88AA4D;
+}
+
+.heading .title {
+  margin: 4px 0 0;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.text {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  padding: 20px 0 0;
+}

@@ -1,0 +1,14 @@
+.footer {
+  height: 80px;
+  border-top: 1px solid #f6f6f6;
+  align-content: center
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.copy {
+  align-content: center;
+}
